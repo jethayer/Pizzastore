@@ -1,0 +1,4 @@
+dev\jethayer\pizzastore\controller\ToppingControllerTest.class
+dev\jethayer\pizzastore\service\PizzaServiceTest.class
+dev\jethayer\pizzastore\controller\PizzaControllerTest.class
+dev\jethayer\pizzastore\service\ToppingServiceTest.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: dev.jethayer.pizzastore.service.PizzaServiceTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.188 s -- in dev.jethayer.pizzastore.service.PizzaServiceTest
