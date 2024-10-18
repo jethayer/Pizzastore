@@ -1,4 +1,4 @@
-import api from './api'; // Adjust path as needed
+import api from './api';
 
 export interface Topping {
     id: number;
