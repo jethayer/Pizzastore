@@ -42,7 +42,7 @@ Pizzastore is a **Pizza Management System** designed to help pizza store owners 
    ```bash
    docker-compose up --build
 
-The build may take a few minutes to complete if running it for the first time since it needs to create the images, intsall all dependencies, etc.
+The build may take a few minutes to complete if running it for the first time since it needs to create the images, install all dependencies, etc.
 
 6. In the brower, visit: http://localhost:5173
 
@@ -50,11 +50,14 @@ After the first build you can stop and start the application with docker-compose
 <br>
 
 To run tests locally: 
-1. navigate to the server directory from the root directory (Pizzastore)
+1. You will need Java 21. You can check your version with the command java --version. JDK 21 is the latest Long-Term Support (LTS) release of the Java SE Platform.
+   You can downdload JDK 21 here: https://www.oracle.com/java/technologies/downloads/#java21
+
+3. navigate to the server directory from the root directory (Pizzastore)
    ```bash
    cd server
 
-2. Run tests with Maven wrapper
+4. Run tests with Maven wrapper
    ```bash
    ./mvnw test
 <br>
