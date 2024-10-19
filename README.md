@@ -13,6 +13,17 @@ Pizzastore is a **Pizza Management System** designed to help pizza store owners 
 - **Automated Test Suite**: The backend includes unit and integration tests for critical functionality.
 - **Deployment**: The backend is deployed to **Railway**, and the frontend is hosted on **Netlify**.
 
+### On the deployment server I have provided a default username and password for owner and chef if you wish to use it. You can also register additional users.
+Owner:  
+Username: owner  
+Password: owner  
+  
+Chef:  
+Username: chef  
+Password: chef  
+
+Note: These passwords are extremely weak and a broswer like google will let you know that. They were created for the sake and ease of the tester. 
+
 ## Local Setup
 
 ### My system for local development
